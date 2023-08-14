@@ -7,4 +7,3 @@ let 身長;
 let bmi = 体重/(身長*身長);
 
 console.log(bmi);
-localStorage
