@@ -4,9 +4,9 @@ let num = Math.floor(Math.random() * 101);
 // 確認
 console.log(num)
 
-// 3nの倍数
+// 15の倍数
 
-if (num % 15 === 0 ){
+if (num % 3 === 0  && num % 5 === 0){
   console.log('3と5の倍数です');
 }
 
