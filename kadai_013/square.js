@@ -2,7 +2,6 @@
 const square = (price) => {
   const result = price * price;
   console.log(result);
-  return result
 }
 
 // 関数呼び出し
